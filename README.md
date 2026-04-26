@@ -1,33 +1,31 @@
+<p align="center">
+  <img src="https://your-image-link/banner.png" />
+</p>
+
 <h1 align="center">Krishna Vitthal</h1>
 <h3 align="center">Backend-Focused Full-Stack Engineer building AI-powered systems</h3>
 
 <p align="center">
-  <a href="mailto:krishnavitthal2005@gmail.com">Email</a> •
-  <a href="https://github.com/Krishna-Vitthal">GitHub</a> •
+  📍 India • 📧 krishnavitthal2005@gmail.com • 🔗 
   <a href="https://www.topcoder.com/members/226010">TopCoder</a>
 </p>
 
 ---
 
-## 🚀 What I Do
-I design and build **scalable backend systems** and integrate **AI/ML into real applications**.
+## 👤 About Me
 
-- Build REST APIs and full-stack apps with production-ready architecture  
-- Develop **RAG pipelines and LLM-powered features**  
-- Work across backend, database design, and deployment  
+I build scalable backend systems and intelligent applications that solve real-world problems.  
+Focused on clean architecture, performance, and practical AI integration.
 
----
-
-## 🧠 Current Focus
-- Retrieval-Augmented Generation (RAG)
-- LLM applications & vector databases
-- System design & backend scalability
-- Cloud + distributed systems fundamentals
+- 🚀 Working on: **Spendwise (expense tracker with insights)**
+- 🧠 Learning: **LLMs, RAG, Vector DBs, Cloud**
+- 💬 Ask me about: **Java, React, Node.js, FastAPI, REST APIs**
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,fastapi,postgres,mysql,redis,docker,git,linux,tensorflow,sklearn" />
 </p>
 
@@ -35,32 +33,29 @@ I design and build **scalable backend systems** and integrate **AI/ML into real 
 
 ## 📌 Featured Projects
 
-### 🔹 Spendwise
-> Expense tracking system with intelligent insights
-
-- Full-stack app with structured backend architecture  
-- Focus on performance, usability, and clean API design  
-- Built to evolve into AI-driven financial insights  
-
-👉 https://github.com/Krishna-Vitthal/SPENDWISE
+### 🔹 Spendwise  
+Expense tracking system with intelligent insights  
+- Clean backend architecture  
+- Secure APIs + analytics dashboard  
+👉 https://github.com/Krishna-Vitthal/SPENDWISE  
 
 ---
 
-### 🔹 AI RAG Pipeline (Example Work)
-> End-to-end retrieval system using LLMs
-
-- Document ingestion + embedding + vector search  
-- Context-aware response generation  
-- Built using FastAPI + Python ecosystem  
+### 🔹 AI RAG Pipeline  
+End-to-end retrieval system using LLMs  
+- Embeddings + vector search  
+- Context-aware responses  
+- Built with FastAPI  
 
 ---
 
-## ⚡ How I Work
-- Prefer **clean architecture over quick hacks**  
-- Focus on **systems that scale, not just run**  
-- Learn by building, not just consuming tutorials  
+## ⚙️ How I Work
+
+- 🎯 Purpose-driven → build for real impact  
+- 🧱 Clean & scalable → maintainable architecture  
+- 🚀 Always learning → exploring new tech  
 
 ---
 
 ## 📫 Contact
-- Email: krishnavitthal2005@gmail.com
+- krishnavitthal2005@gmail.com
