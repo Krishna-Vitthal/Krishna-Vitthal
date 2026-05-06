@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link/banner.png" />
+  <img src="https://raw.githubusercontent.com/Krishna-Vitthal/Krishna-Vitthal/main/Grey%20Simple%20Modern%20City%20Skyline%20Quote%20Desktop%20Wallpaper.png" width="100%" />
 </p>
 
 <h1 align="center">Krishna Vitthal</h1>
